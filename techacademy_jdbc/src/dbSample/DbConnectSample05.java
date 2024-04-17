@@ -81,6 +81,7 @@ public class DbConnectSample05 {
         }
 
     }
+    
 
     /*
      * キーボードから入力された値をStringで返す
